@@ -1,0 +1,17 @@
+{
+    "name": "scipper/statuscodes",
+    "type": "library",
+    "description": "HTTP Statuscodes",
+    "keywords": ["http","statuscodes"],
+    "homepage": "http://myscipper.de",
+    "license": "GNU GENERAL PUBLIC LICENSE v3",
+    "authors": [
+        {"name": "Steffen Kowalski", "email": "scipper@myscipper.de"}
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "Scipper\\Statuscodes\\": "src/" }
+    }
+}
