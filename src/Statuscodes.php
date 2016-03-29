@@ -1,6 +1,6 @@
 <?php
 
-namespace Scipper/Statuscodes;
+namespace Scipper\Statuscodes;
 
 /**
  * 
